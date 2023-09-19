@@ -1,0 +1,6 @@
+- label: "dynamic command 1"
+  command: echo $(hostname)
+- label: "dynamic command 2"
+  command: echo $(hostname)
+- label: "dynamic command 3"
+  command: echo $(hostname)
