@@ -2,7 +2,6 @@
 
 # exit immediately on failure, or if an undefined variable is used
 set -eu
-exit 1
 
 # begin the pipeline.yml file
 echo "steps:"
